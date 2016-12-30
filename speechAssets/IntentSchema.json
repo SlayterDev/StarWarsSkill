@@ -1,0 +1,16 @@
+{
+	"intents": [
+		{
+			"intent": "CrawlIntent",
+			"slots": [
+				{
+					"name": "episode",
+					"type": "EPISODE_NAME"
+				}
+			]
+		},
+		{
+			"intent": "HelpIntent"
+		}
+	]
+}
