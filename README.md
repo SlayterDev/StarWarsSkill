@@ -1,5 +1,4 @@
 # Star Wars Skill
-=================
 
 Uses http://swapi.co to retireve the opening crawl to the specified Star Wars movie and reads it back.
 
